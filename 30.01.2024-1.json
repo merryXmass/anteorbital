@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Hunter",
+    "age": 90,
+    "address": {
+        "street": "Thomas Corners",
+        "city": "Lake Stephanie",
+        "state": "North Dakota",
+        "zip": "33564"
+    },
+    "contact": {
+        "phone": "710.910.4399x217",
+        "servicePhone": "800583720"
+    },
+    "birthday": "1935-10-12",
+    "ip": "149.222.234.3",
+    "foo": "bar",
+    "profile": {
+        "about": "While nice material hotel. Get good information charge member. Ten for recently each college interest.\nBest forward test able majority so. Or site a. Top hard civil several pretty.",
+        "bio": "Art hope group type any everyone economy respond. Attorney evening reason two enter measure."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
