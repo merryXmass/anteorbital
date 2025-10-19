@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Jackson",
+    "age": 78,
+    "address": {
+        "street": "Hart Harbors",
+        "city": "Port Edward",
+        "state": "Delaware",
+        "zip": "27335"
+    },
+    "contact": {
+        "phone": "765.849.2527",
+        "servicePhone": "800231824"
+    },
+    "birthday": "1947-01-12",
+    "ip": "124.169.215.244",
+    "foo": "bar",
+    "profile": {
+        "about": "Avoid both level wait top window pressure. Long now and who own laugh could short. Account stuff case population strong second.",
+        "bio": "Near travel central church become. Today shoulder table. Scientist organization mention control book make Mr for. Memory look since fear visit."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
