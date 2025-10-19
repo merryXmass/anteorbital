@@ -1,0 +1,25 @@
+{
+    "name": "Adam Watkins",
+    "age": 40,
+    "address": {
+        "street": "Andrew Key",
+        "city": "North Karen",
+        "state": "New Hampshire",
+        "zip": "67928"
+    },
+    "contact": {
+        "phone": "(463)241-1939",
+        "servicePhone": "800786803"
+    },
+    "birthday": "1985-23-01",
+    "ip": "201.137.29.211",
+    "foo": "bar",
+    "profile": {
+        "about": "Group job individual question read. Success positive her answer response member wonder. Lay different go front once operation.",
+        "bio": "Performance price lay young million floor. Color final late owner young. New coach determine test material purpose ten member."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
