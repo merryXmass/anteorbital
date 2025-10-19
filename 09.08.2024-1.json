@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Johnson",
+    "age": 80,
+    "address": {
+        "street": "Davis Plaza",
+        "city": "Lake Henry",
+        "state": "Utah",
+        "zip": "21779"
+    },
+    "contact": {
+        "phone": "+1-933-629-1670x39154",
+        "servicePhone": "800032999"
+    },
+    "birthday": "1945-28-02",
+    "ip": "155.193.183.121",
+    "foo": "bar",
+    "profile": {
+        "about": "Better nice Congress owner test plant. Health agreement until mind door enter black thank. Four customer past beautiful foreign.",
+        "bio": "Tax speech into spring policy war. Contain in religious wear offer list.\nBoth light kid sport begin guy. Must feeling understand good material. As realize reason record young be."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
