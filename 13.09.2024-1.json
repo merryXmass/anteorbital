@@ -1,0 +1,25 @@
+{
+    "name": "William Luna",
+    "age": 27,
+    "address": {
+        "street": "Eugene Trafficway",
+        "city": "New Carolinetown",
+        "state": "Texas",
+        "zip": "58418"
+    },
+    "contact": {
+        "phone": "+1-456-636-1069x9925",
+        "servicePhone": "800648731"
+    },
+    "birthday": "1998-10-02",
+    "ip": "149.249.232.232",
+    "foo": "bar",
+    "profile": {
+        "about": "Bad amount shake guess. Data assume record. Behavior experience religious fish trouble.\nCover alone common today real. However form part anything world.",
+        "bio": "Laugh subject interest analysis. Today there more address use loss cultural.\nTime national newspaper walk both may election baby. However dream star street card seat."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
