@@ -1,0 +1,25 @@
+{
+    "name": "Deborah Davenport",
+    "age": 85,
+    "address": {
+        "street": "Lewis Roads",
+        "city": "Baileyland",
+        "state": "Arizona",
+        "zip": "65186"
+    },
+    "contact": {
+        "phone": "+1-552-832-9142",
+        "servicePhone": "800494343"
+    },
+    "birthday": "1940-02-07",
+    "ip": "85.126.159.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Relate which other. Eye memory stand year. Executive where gas act.\nFirst common resource student the myself law. Analysis whether site before. Before perhaps ten record.",
+        "bio": "Wish fill skill page effort. Table teach author since. Bar dog politics behind occur up mother.\nImage sign shoulder stuff listen science. Interesting baby probably action see be."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
