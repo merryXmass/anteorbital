@@ -1,0 +1,25 @@
+{
+    "name": "William Franklin",
+    "age": 106,
+    "address": {
+        "street": "Curtis Point",
+        "city": "Sarahfort",
+        "state": "Tennessee",
+        "zip": "51364"
+    },
+    "contact": {
+        "phone": "397.586.8043x2010",
+        "servicePhone": "800253145"
+    },
+    "birthday": "1919-04-05",
+    "ip": "184.48.132.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Growth after enter ask seven fight night. Outside only with push heavy move. Record small affect president least leave civil.",
+        "bio": "What kind two rich. Information crime though which statement.\nProfessional two above American already product environmental. Feeling such describe size final."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
