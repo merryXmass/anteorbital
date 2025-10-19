@@ -1,0 +1,25 @@
+{
+    "name": "Samantha Quinn",
+    "age": 52,
+    "address": {
+        "street": "Brian Plains",
+        "city": "Dawntown",
+        "state": "Wyoming",
+        "zip": "56987"
+    },
+    "contact": {
+        "phone": "457-240-3664x8356",
+        "servicePhone": "800810716"
+    },
+    "birthday": "1973-30-08",
+    "ip": "23.248.75.216",
+    "foo": "bar",
+    "profile": {
+        "about": "Shoulder business number building six day surface. Turn adult whose before always us wonder so. Professor bill culture final business.\nValue model choose strategy herself. Finally across listen with.",
+        "bio": "But bit letter. Thought career meeting reason raise player. Guy opportunity must once administration."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
