@@ -1,0 +1,25 @@
+{
+    "name": "James Kelley",
+    "age": 62,
+    "address": {
+        "street": "Kathryn Locks",
+        "city": "Brianmouth",
+        "state": "Texas",
+        "zip": "06956"
+    },
+    "contact": {
+        "phone": "001-534-875-0399",
+        "servicePhone": "800205021"
+    },
+    "birthday": "1963-01-11",
+    "ip": "52.170.55.93",
+    "foo": "bar",
+    "profile": {
+        "about": "There road event use make industry answer develop. Ground relationship whom.",
+        "bio": "Government occur space would risk. Field beautiful address level million history like per. Role force board writer."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
