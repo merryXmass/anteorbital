@@ -1,0 +1,25 @@
+{
+    "name": "Debra Johnson",
+    "age": 48,
+    "address": {
+        "street": "Gordon Lakes",
+        "city": "Maryberg",
+        "state": "Hawaii",
+        "zip": "98196"
+    },
+    "contact": {
+        "phone": "257-414-3411x8965",
+        "servicePhone": "800476775"
+    },
+    "birthday": "1977-25-04",
+    "ip": "208.229.236.89",
+    "foo": "bar",
+    "profile": {
+        "about": "Sometimes particular central may toward city. Another individual medical rich. Include move amount the laugh century.",
+        "bio": "Front stand whom development order leave voice. Old paper leg type because page.\nIndividual remain artist little. Word media Democrat truth five view court father."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
