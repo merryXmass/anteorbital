@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Smith",
+    "age": 73,
+    "address": {
+        "street": "Brian Village",
+        "city": "Johnport",
+        "state": "Florida",
+        "zip": "40006"
+    },
+    "contact": {
+        "phone": "(437)791-7592",
+        "servicePhone": "800837578"
+    },
+    "birthday": "1952-02-07",
+    "ip": "188.36.50.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Customer win Democrat political hard candidate east. Listen college teacher car prevent garden street surface. Discover behind allow say effort analysis claim.",
+        "bio": "Foreign father building instead past wonder same. Beat say executive site. Fish strategy cultural soldier lose especially bit."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
