@@ -1,0 +1,25 @@
+{
+    "name": "April Smith",
+    "age": 20,
+    "address": {
+        "street": "Bianca Mews",
+        "city": "South Paulshire",
+        "state": "Idaho",
+        "zip": "93365"
+    },
+    "contact": {
+        "phone": "(604)282-9753",
+        "servicePhone": "800535505"
+    },
+    "birthday": "2005-04-11",
+    "ip": "205.196.143.15",
+    "foo": "bar",
+    "profile": {
+        "about": "Market leader could story station yard. Order worry wife finally.\nCurrent back face day. Street yeah design bad. Behind direction artist realize physical.",
+        "bio": "Subject behind leader we I skill. Know effect compare even. Stand during talk friend allow argue."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
